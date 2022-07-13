@@ -46,7 +46,7 @@ const NonAuthLayoutWrapper = (props: NonAuthLayoutWrapperProps) => {
                         <p className="mb-0">
                           &copy; {new Date().getFullYear()} Doot. Crafted with{" "}
                           <i className="mdi mdi-heart text-danger"></i> by
-                          Themesbrand
+                          KimaswaEmmanuel
                         </p>
                       </div>
                     </Col>

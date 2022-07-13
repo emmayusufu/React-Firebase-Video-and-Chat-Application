@@ -77,7 +77,7 @@ const Login = (props: LoginProps) => {
   );
 
   const defaultValues: any = {
-    email: "admin@themesbrand.com",
+    email: "admin@KimaswaEmmanuel.com",
     password: "123456",
   };
 
